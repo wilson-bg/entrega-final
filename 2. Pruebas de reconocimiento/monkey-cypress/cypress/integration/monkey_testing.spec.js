@@ -1,10 +1,10 @@
-describe('Pagina ghost ', function() {
+describe('Pruebas ghost ', function() {
 
-    it('pagina administrador', function(){
+    it('monkey testing', function(){
         cy.visit('http://localhost:2368/ghost/#/signin');
         cy.wait(1000);
-        cy.get('#ember8').type('w.beltran@uniandes.edu.co');
-        cy.get('#ember10').type('GmFxAiH33vXrteZ');
+        cy.get('#ember8').type('m.leguizamong@uniandes.edu.co');
+        cy.get('#ember10').type('123456789!');
         cy.get('#ember12 > span').click({force: true});
         randomEvent(10);
     })
