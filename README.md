@@ -1,4 +1,4 @@
-# Entrega final pruebas automatizadas
+# Entrega final de la estrategia de pruebas
 
 ## Estudiantes
 Nuestro equipo está conformado por 3 integrantes.
