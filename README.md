@@ -1,7 +1,7 @@
 # Entrega final
 
 ## Estudiantes
-Nuestro equipo está conformado por 3 integrantes. Trabajamos 120 escenarios utilizando las estrategias analizadas en la semana 7.
+Nuestro equipo está conformado por 3 integrantes.
 |Nombre |Correo|
 |--|--|
 |Cesar Andrade |co.andrade86@uniandes.edu.co|
