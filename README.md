@@ -1,4 +1,4 @@
-# Entrega final
+# Entrega final pruebas automatizadas
 
 ## Estudiantes
 Nuestro equipo está conformado por 3 integrantes.
