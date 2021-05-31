@@ -11,6 +11,7 @@ Nuestro equipo está conformado por 3 integrantes.
 # Estrategia de pruebas 
 A continuación  encontrara el documento de la propuesta y el video explicativo:
 - [1. Documento estrategia](https://github.com/wilson-bg/entrega-final/blob/main/6.%20Soportes/estrategia-pruebas.pdf)
+- 
 - [2. Presentacion estrategia](https://github.com/wilson-bg/entrega-final/blob/main/6.%20Soportes/Video_Estrategia.pptx)
 
 # Funcionalidades
