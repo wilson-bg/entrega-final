@@ -8,6 +8,11 @@ Nuestro equipo está conformado por 3 integrantes.
 |Wilson Beltran |w.beltran@uniandes.edu.co|
 |Marby Leguizamón|m.leguizamong@uniandes.edu.co|
 
+# Estrategia de pruebas 
+A continuación  encontrara el documento de la propuesta y el video explicativo:
+- [1. Documento estrategia](https://github.com/wilson-bg/entrega-final/blob/main/6.%20Soportes/estrategia-pruebas.pdf)
+- [2. Presentacion estrategia]()
+
 # Funcionalidades
 - Login
 - Agregar post 
@@ -23,7 +28,7 @@ Nuestro equipo está conformado por 3 integrantes.
 - Suspender usuario
 
 
-Este repositiorio contiene el código para poder ejecutar las siguientes pruebas :
+Este repositorio contiene el código para poder ejecutar las siguientes pruebas :
 
 - [1. Pruebas manuales](https://github.com/wilson-bg/entrega-final/tree/main/1.%20Pruebas%20manuales)
 - [2. Pruebas de reconocimiento](https://github.com/wilson-bg/entrega-final/tree/main/2.%20Pruebas%20de%20reconocimiento/monkey-cypress)
