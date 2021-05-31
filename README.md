@@ -53,9 +53,15 @@ A conitnuación se detalla el contenido y los pasos para ejecutar cada una de la
 Esta carpeta contiene el artefacto [inventario-pruebas-exploratorias.xlsx](https://github.com/wilson-bg/entrega-final/blob/main/1.%20Pruebas%20manuales/inventario-pruebas-exploratorias.xlsx), en su interior se encuentrán los resultado de las pruebas exploratirias y los escenarios propuestos.
 
 
-## 2. Pruebas de reconocimiento
+## 2. Pruebas de reconocimiento con Monkey
 
 ## 3. Pruebas E2E
+La carpeta [3. Pruebas E2E/Cypress](https://github.com/wilson-bg/entrega-final/tree/main/3.%20Pruebas%20E2E/Cypress) contiene el proyecto Cypress con el código fuente las pruebas e2e. Ejecute los isguientes pasos para desplegar los casos de prueba implementados en Cypress:
+```
+- Abra una nueva consola 
+- Ubique la carpeta  /3. Pruebas E2E/Cypress
+- Ejecute el comando cypress open.
+```
 
 ## 4. VRT 
 La carpeta [/4. VRT/ResembleJS/](https://github.com/wilson-bg/entrega-final/tree/main/4.%20VRT/ResembleJS) contiene el código fuente de las pruebas de regresión y el [reporte](https://github.com/wilson-bg/entrega-final/blob/main/4.%20VRT/ResembleJS/screenshots/ghost/report.html) con el resultado de las mismas. Para ejecutar las pruebas se debe tener encuenta lo siguientes pasos:
