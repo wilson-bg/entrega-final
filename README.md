@@ -71,7 +71,33 @@ La carpeta [/4. VRT/ResembleJS/](https://github.com/wilson-bg/entrega-final/tree
 ```
 
 ## 5. Escenarios de validación de datos
+A continuación, se detallan las estrategias utilizadas para la generación de datos en los escenenarios elaborados:
 
+(i) pool de datos a-priori y (ii) pool de datos (pseudo) aleatorio dinámico
+
+### (i) pool de datos a-priori.
+Para la generación previa de datos, se utilizó el sitio https://www.mockaroo.com/ estableciendo una plantilla de tipos de datos requeridos, posteriormente se generó un archivo json con 100 registros en total fueron 8 archivos y este fue ubicado dentro del proyecto cypress.  En cada caso de pruebas implementado, se importó el mencionado archivo haciendo uso aleatario de los registros allí encontrados.
+
+ - MOCK_DATA_CLAVES.json
+ - MOCK_DATA_EMAIL.json
+ - MOCK_DATA_ESPECIAL.json
+ - MOCK_DATA_LOGIN.json
+ - MOCK_DATA_NULL.json
+ - MOCK_DATA_NUMEROS.json
+ - MOCK_DATA_TEXTOLARGO.json
+ - MOCK_DATA_USUARIO.json
+
+### (ii) pool de datos (pseudo) aleatorio dinámico.
+Para la generación de datos se hizo uso de la herramienta [Mockaroo](https://www.mockaroo.com/) y mediante un llamado a la API se obtienen los datos y posteriormente se almacenan en el archivos **fixtures/mockaroo.json** Para hacer esto posible se creó una cuenta en Mockaroo, se definió un Schema con diferentes campos y tipos de datos, además, se realizo la creación de la respectiva [API](https://my.api.mockaroo.com/data.json?key=fae49f20). Antes de iniciar la ejecución de los escenarios se lee el archivo mockaroo.json y se almacena en un array y cada vez que se ejecuta un escenario se genera un numero aleatorio de la longitud del array, el cual indica la posición de los datos que serán usados.
+
+![image](https://github.com/coandrade/TallerEstrategiaDatos/blob/main/Cypress/imagen/api.PNG)
+
+
+```
+- Abra una nueva consola 
+- Ubique la carpeta /5. Escenarios de validación de datos/Cypress
+- Ejecute el comando cypress open.
+```
 
 ## Issues
 [Registro de incidenciass Ghost](https://github.com/wilson-bg/entrega-final/issues)
