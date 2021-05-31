@@ -8,6 +8,21 @@ Nuestro equipo está conformado por 3 integrantes.
 |Wilson Beltran |w.beltran@uniandes.edu.co|
 |Marby Leguizamón|m.leguizamong@uniandes.edu.co|
 
+# Funcionalidades
+- Login
+- Agregar post 
+- Editar post
+- Publicar post
+- Revertir publicación de post
+- Borrar post
+- Crear tags
+- Editar tags
+- Borrar tags
+- Editar usuario
+- Invitar usuarios
+- Suspender usuario
+
+
 Este repositiorio contiene el código para poder ejecutar las siguientes pruebas :
 
 - [1. Pruebas manuales](https://github.com/wilson-bg/entrega-final/tree/main/1.%20Pruebas%20manuales)
@@ -16,7 +31,23 @@ Este repositiorio contiene el código para poder ejecutar las siguientes pruebas
 - [4. VRT](https://github.com/wilson-bg/entrega-final/tree/main/4.%20VRT/ResembleJS)
 - [5. Escenarios de validación de datos](https://github.com/wilson-bg/entrega-final/tree/main/5.%20Escenarios%20de%20validaci%C3%B3n%20de%20datos/Cypress)
 
+con la herramienta:
+# Cypress
+[![Cypress.io](https://img.shields.io/badge/tested%20with-Cypress-04C38E.svg)](https://www.cypress.io/)
+
+
 A conitnuación se detalla el contenido y los pasos para ejecutar cada una de las pruebas:
+
+# Instrucciones de instalación.
+1. Instalar la versión 3.42.5 de ghost.  En el siguiente enlace podrá encontrar un tutorial que servirá de guía: https://www.coursera.org/learn/pruebas-automatizadas-software/supplement/gjD9z/como-desplegar-ghost-de-forma-local
+2. Inicie ghost. Desde el sitio del administrador cree el siguiente usuario:
+
+|Correo|Clave|
+|--|--|
+|m.leguizamong@uniandes.edu.co|123456789!|
+
+3. Instalar cypress. En el siguiente enlace podrá encontrar un tutorial que servirá de guía: https://misovirtual.virtual.uniandes.edu.co/codelabs/cypress-tutorial/index.html#1
+4. Descargue el repositorio del código en su máquina. Desde powershell ingrese el siguiente comando: git clone https://github.com/wilson-bg/entrega-final.git
 
 ## 1. Pruebas manuales
 
