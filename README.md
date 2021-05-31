@@ -55,6 +55,17 @@ Esta carpeta contiene el artefacto [inventario-pruebas-exploratorias.xlsx](https
 
 ## 2. Pruebas de reconocimiento con Monkey
 
+La carpeta [2. Pruebas de reconocimiento/monkey-cypress/](https://github.com/wilson-bg/entrega-final/tree/main/2.%20Pruebas%20de%20reconocimiento/monkey-cypress) contiene  el proyecto Cypress con el código fuente las pruebas de exploración aleatorias (Monkey).
+```
+- Abra una nueva consola 
+- Ubique la carpeta  2. Pruebas de reconocimiento/monkey-cypress
+- Descargue las dependencias del proyecto, ejecutando el siguiente comando;
+      npm install
+- Ejecute el comando cypress open.
+- Ejecute monkey_testing
+```
+
+
 ## 3. Pruebas E2E
 La carpeta [3. Pruebas E2E/Cypress](https://github.com/wilson-bg/entrega-final/tree/main/3.%20Pruebas%20E2E/Cypress) contiene el proyecto Cypress con el código fuente las pruebas e2e. Ejecute los isguientes pasos para desplegar los casos de prueba implementados en Cypress:
 ```
