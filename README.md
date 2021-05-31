@@ -56,6 +56,19 @@ A conitnuación se detalla el contenido y los pasos para ejecutar cada una de la
 ## 3. Pruebas E2E
 
 ## 4. VRT 
+La carpeta [/4. VRT/ResembleJS/](https://github.com/wilson-bg/entrega-final/tree/main/4.%20VRT/ResembleJS) contiene el código fuente de las pruebas de regresión y el [reporte](https://github.com/wilson-bg/entrega-final/blob/main/4.%20VRT/ResembleJS/screenshots/ghost/report.html) con el resultado de las mismas. Para ejecutar las pruebas se debe tener encuenta lo siguientes pasos:
+
+```
+- Abra una nueva consola 
+- Ubique la carpeta 4. VRT/ResembleJS
+- Para instalar Playwright, ejecute el siguiente comando:
+      npm install playwright
+- Para instalar Resemble.js, ejecute el siguiente comando:
+      npm install resemblejs
+- Para ejecutar las pruebas, ejecute el siguiente comando:
+      node index.js
+- Ubique el reporte de los resultados "report.html" en la carpeta 4. VRT/ResembleJS/screenshots/ghost
+```
 
 ## 5. Escenarios de validación de datos
 
