@@ -9,7 +9,10 @@ Nuestro equipo está conformado por 3 integrantes.
 |Marby Leguizamón|m.leguizamong@uniandes.edu.co|
 
 # Estrategia de pruebas 
-A continuación  encontrara el documento de la propuesta y el video explicativo:
+A continuación  encontrara el documento de la propuesta y el video explicativo, en la siguiente ruta:
+
+  https://github.com/wilson-bg/entrega-final/tree/main/6.%20Soportes
+
 - [1. Documento estrategia](https://github.com/wilson-bg/entrega-final/blob/main/6.%20Soportes/estrategia-pruebas.pdf) 
 - [2. Presentacion estrategia](https://github.com/wilson-bg/entrega-final/blob/main/6.%20Soportes/Video_Estrategia.pptx)
 
