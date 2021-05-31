@@ -50,6 +50,8 @@ A conitnuación se detalla el contenido y los pasos para ejecutar cada una de la
 4. Descargue el repositorio del código en su máquina. Desde powershell ingrese el siguiente comando: git clone https://github.com/wilson-bg/entrega-final.git
 
 ## 1. Pruebas manuales
+Esta carpeta contiene el artefacto [inventario-pruebas-exploratorias.xlsx](https://github.com/wilson-bg/entrega-final/blob/main/1.%20Pruebas%20manuales/inventario-pruebas-exploratorias.xlsx), en su interior se encuentrán los resultado de las pruebas exploratirias y los escenarios propuestos.
+
 
 ## 2. Pruebas de reconocimiento
 
